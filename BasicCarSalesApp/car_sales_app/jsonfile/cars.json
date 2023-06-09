@@ -1,0 +1,101 @@
+[
+    {
+        "id" : 1,
+        "brandId" : 1,
+        "carName" : "BMW 3 SEDAN",
+        "carImage" : "https://boi-ddm.com/_temp/1000_561_ijD2Gb6CBU2cRHFGloETxQ_2.jpg",
+        "unitPrice" : "2.580.000₺"
+    },
+    {
+        "id" : 2,
+        "brandId" : 1,
+        "carName" : "BMW X1",
+        "carImage" : "https://boi-ddm.com/_temp/1000_561_zwq8e41qrkCc8zAUDAuqw_5.jpg",
+        "unitPrice" : "1.900.000₺"
+    },
+    {
+        "id": 3,
+        "brandId": 1,
+        "carName": "BMW 1 Serisi",
+        "carImage": "https://cdn.motor1.com/images/mgl/mBO0v/s1/2019-bmw-m135i-xdrive.jpg",
+        "unitPrice" : "1.250.000₺"
+    },
+    {
+        "id": 4,
+        "brandId": 2,
+        "carName": "AUDI A6",
+        "carImage": "https://i.sozcu.com.tr/wp-content/uploads/2019/03/iecrop/1553259471_audi_a6_-kopya_16_9_1553599394-880x495.jpg",
+        "unitPrice" : "1.850.000₺"
+    },
+    {
+        "id": 5,
+        "brandId": 2,
+        "carName": "AUDI A3",
+        "carImage": "https://hwp.com.tr/wp-content/uploads/2020/03/2020-Audi-A3-Sportback.jpg",
+        "unitPrice" : "1.350.000₺"
+    },
+    {
+        "id": 6,
+        "brandId": 2,
+        "carName": "AUDI A4",
+        "carImage": "https://staticb.yolcu360.com/blog/wp-content/uploads/2020/04/20121934/a43.jpg",
+        "unitPrice" : "2.150.000₺"
+    },
+    {
+        "id": 7,
+        "brandId": 3,
+        "carName": "MERCEDES C SERIES",
+        "carImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mercedes-Benz_C_220_BlueTEC_AMG_Line_%28W_205%29_%E2%80%93_Frontansicht%2C_15._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+        "unitPrice" : "3.850.000₺"
+    },
+    {
+        "id": 8,
+        "brandId": 3,
+        "carName": "MERCEDES A SERIES",
+        "carImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg",
+        "unitPrice" : "1.125.000₺"
+    },
+    {
+        "id": 9,
+        "brandId": 3,
+        "carName": "MERCEDES E SERIES",
+        "carImage": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/e-class/saloon/explore/specifications-teaser/_jcr_content/par/imagenumbercombinati/media/videoimageslide/image.MQ6.8.20200819170741.jpeg",
+        "unitPrice" : "4.150.000₺"
+    },
+    {
+        "id": 10,
+        "brandId": 4,
+        "carName": "RENAULT CLIO",
+        "carImage": "https://www.vidyoto.com/wp-content/uploads/2019/01/yeni_Renault_Clio_1-620x380.jpg",
+        "unitPrice" : "650.000₺"
+    },
+    {
+        "id": 11,
+        "brandId": 4,
+        "carName": "RENAULT MEGANE",
+        "carImage": "https://www.autozeitung.de/assets/styles/article_image/public/field/images/renault-megane-facelift-2020-01.jpg?itok=voArtmDr",
+        "unitPrice" : "4.150.000₺"
+    },
+    {
+        "id": 12,
+        "brandId": 5,
+        "carName": "FIAT EGEA",
+        "carImage": "https://otomobil.fiat.com.tr/content/dam/fiat/TR/yeni-egea/sedan/lounge/yeni/EGEA_SEDAN_LOUNGE_OKYANUS_MAVISI_KESFET_606x340px_rev.jpg",
+        "unitPrice" : "450.000₺"
+    },
+    {
+        "id": 13,
+        "brandId": 5,
+        "carName": "FIAT 500X",
+        "carImage": "https://otomobil.fiat.com.tr/content/dam/fiat/TR/models/alt-model/500x/cross-plus/crossplus_606x340.jpg",
+        "unitPrice" : "600.000₺"
+    },
+    {
+        "id": 14,
+        "brandId": 6,
+        "carName": "TOFAS SAHIN",
+        "carImage": "https://memurlar.net/common/news/images/1009186/headline.jpg",
+        "unitPrice" : "75.000₺"
+    }
+
+]

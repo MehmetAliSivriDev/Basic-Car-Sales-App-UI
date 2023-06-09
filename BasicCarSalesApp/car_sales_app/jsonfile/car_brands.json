@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "brandName" : "BMW",
+        "seoUrl" : "bmw",
+        "logoImage" : "https://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19707.png"
+    },
+    {
+        "id" : 2,
+        "brandName" : "AUDI",
+        "seoUrl" : "audi",
+        "logoImage" : "https://www.freepnglogos.com/uploads/audi-logo-2.png"
+    },
+    {
+        "id" : 3,
+        "brandName" : "MERCEDES",
+        "seoUrl" : "mercedes",
+        "logoImage" : "https://www.freepnglogos.com/uploads/mercedes-logo-png/mercedes-logo-mercedes-benz-logo-png-transparent-svg-vector-bie-13.png"
+    },
+    {
+        "id" : 4,
+        "brandName" : "RENAULT",
+        "seoUrl" : "renault",
+        "logoImage" : "https://www.carlogos.org/logo/Renault-logo-2015-2048x2048.png"
+    },
+    {
+        "id" : 5,
+        "brandName" : "FIAT",
+        "seoUrl" : "fiat",
+        "logoImage" : "https://assets.stickpng.com/images/580b585b2edbce24c47b2c5e.png"
+    },
+    {
+        "id" : 6,
+        "brandName" : "TOFAS",
+        "seoUrl" : "tofas",
+        "logoImage" : "https://cdn.iconscout.com/icon/free/png-256/tofas-3441137-2874671.png"
+    }
+]
